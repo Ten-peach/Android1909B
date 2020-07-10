@@ -1,0 +1,4 @@
+include ':day0710'
+include ':day0628'
+include ':app'
+rootProject.name = "Android1909B"
